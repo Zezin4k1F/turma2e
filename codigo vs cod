@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="port-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Turma-I</title>
+</head>
+<body>
+    <header class="Cabeçalho">
+     <img class="Cabeçalho-imagem" src="logo design for school and_8968150.png" alt="Logo da Escola">
+     <ul class="Cabeçalho-lista">
+         <li class="Cabeçalho-item">Galeria</li>
+         <li class="Cabeçalho-item">Inicio</li>
+         <li class="Cabeçalho-item">Escola</li>
+
+     </ul>
+
+    </header>
+    <section class="colegio">
+     <h2 class="colegio-titulo">Colégio Dom Pedrito.</h2>
+     <p class="escola-texto">O Colégio Dom Pedrito foi criado em 2000 com o objetivo de ensinar programação aos alunos.</p>
+     <p class="escola-texto">Eleita uma das melhores do Brasil com reconhecimento em todos os estados, os cursos de programação da Dom Pedrito oferece tudo o que é necessário para formar profissionais web full stack preparados para o mercado.</p>
+    </section>
+    <section class="estudante">
+        <div class="estudante-div"> 
+           <h2 class="estudante-titulo"> Quem são os nossos estudantes</h2>
+           <img class="estudante-imagem" src="Foto do Estudante 3.png" alt="Foto do Estudante 3">
+           <h3 class="estudante-legenda">Pedrito</h3>
+       </div>
+</section>
+
+</body>
+</html>

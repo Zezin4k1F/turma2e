@@ -1,0 +1,46 @@
+.Cabeçalho {
+    background-color: blue;
+    color: black;
+    display: flex;
+    padding: 10px;
+    justify-content: space-around;
+}
+.Cabeçalho-imagem {
+    width: 5%;
+    height: 5%;
+
+}
+*{
+   margin: 0;
+   padding: 0;
+
+}
+.Cabeçalho-item {
+    display: inline-block;
+    font-size: 35px;
+    padding: 0 0 0 30px;
+}
+
+.colegio {
+    background-color: rgb(12, 160, 111);
+    color: black;
+    font-size: 30px;
+    padding: 300px 250px;
+}
+.colegio-titulo {
+    padding: 24px 0;
+}
+body{
+    font-family: sans-serif;
+}
+.estudante-div{
+    text-align: center;
+    padding: 24px 0;
+    background-color: rgb(89, 89, 110);
+}
+.estudante-imagem {
+width: 120px;
+}
+.estudante-titulo {
+    padding: 30px;
+}
